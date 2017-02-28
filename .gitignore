@@ -1,0 +1,18 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+
+# IDE - Sublime
+api-blackma-mba.sublime-project
+api-blackma-mba.sublime-workspace
+
+
+#System Files
+.DS_Store
+Thumbs.db
+
+
